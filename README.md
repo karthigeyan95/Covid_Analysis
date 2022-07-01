@@ -18,4 +18,6 @@ measures used
 
 case3 has analysis of booster rates and vaccination percentage.
 
+covid analysis notebook has the analysis of recovery ratio of different countries and a predictive model to forecast the recovery ratio of one country
+
 
